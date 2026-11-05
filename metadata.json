@@ -1,0 +1,6 @@
+{
+  "name": "AURA | MERN E-Commerce Platform",
+  "description": "Full-stack MERN e-commerce application with React, Express, MongoDB integration, JWT auth, product management, and streamlined checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
